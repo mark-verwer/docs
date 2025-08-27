@@ -35,6 +35,11 @@
           "anchor": "Planets.gallery",
           "href": "https://planets.gallery/",
           "icon": "image"
+        },
+        {
+          "anchor": "MagicEden",
+          "href": "https://magiceden.io/ordinals/marketplace/planetsbitcoin",
+          "icon": "card-shopping"
         }
       ]
     }
