@@ -56,14 +56,9 @@
           "icon": "discord"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Planets.gallery",
+          "href": "https://planets.gallery/",
+          "icon": "image"
         }
       ]
     }
